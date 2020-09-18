@@ -62,6 +62,4 @@ ssh [IP address of juice-shop]
 
 ![](https://lh6.googleusercontent.com/JvqJWBWd1kDjuGXhRTQi2MiLd3ia1jv78lNd=
 7bQIuXFQGCFgBM4HJBXQ8HEBqVDocPvbaH88RmBVUbEgDQkMlRz7Xy9HZezIoaz82lzM3zcWPl2=
-MgIUspeJAUU6LZgq3dql8_hUE) ![](https://lh5.googleusercontent.com/Zz1Hq-9AMM=
-8U6B6JOHsqvcLCqZY5J-lk0PW5v_agqThtjGpzByfMVb2Wjdad1AuA-Mo7bLc1RJbs8Wfrdj-wj=
-nj6uQ0PqDgMm7baGzlPLfZx4Lj2cjOvbXOzfwIuKsUfuPxi0BII)
+MgIUspeJAUU6LZgq3dql8_hUE)

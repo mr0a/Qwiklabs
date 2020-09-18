@@ -59,5 +59,3 @@ gcloud compute instances add-tags juice-shop --tags=3Dinternal-ssh-ingress =
 n host. Once connected, SSH to** **juice-shop****.**
 
 ssh [IP address of juice-shop]
-
-![](https://lh6.googleusercontent.com/JvqJWBWd1kDjuGXhRTQi2MiLd3ia1jv78lNd=7bQIuXFQGCFgBM4HJBXQ8HEBqVDocPvbaH88RmBVUbEgDQkMlRz7Xy9HZezIoaz82lzM3zcWPl2=MgIUspeJAUU6LZgq3dql8_hUE)
